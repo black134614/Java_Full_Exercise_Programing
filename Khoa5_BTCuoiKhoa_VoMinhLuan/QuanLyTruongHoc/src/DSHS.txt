@@ -1,0 +1,6 @@
+﻿1 # Võ Minh Luân # 1997 # Tây Ninh # Bình Dương # 7 # 6.7 # 8
+2 # Nguyễn Hải My # 2001 # Bình Dương # Bình Dương # 8.5 # 7.6 # 7.1
+3 # Nguyễn Văn tèo # 2010 # Sài Gòn # Sài Gòn # 10 # 9.9 # 9.8
+4 # Nguyễn thị lụa # 2011 # Hà Nội # Hà Nội # 3.5 # 2.6 # 5.7
+5 # Nguyễn Văn Tèo Anh # 2009 # Bình Dương # Bình Dương # 6 # 7 # 7
+6 # Nguyễn Văn Tèo Em # 2012 # Bình Dương # Bình Dương # 8 # 8 # 9

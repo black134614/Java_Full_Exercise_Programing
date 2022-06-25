@@ -1,0 +1,6 @@
+﻿7 # Thầy A # 1982 # Tây Ninh # Tây Ninh # 2011 # X
+8 # Thầy B # 1981 # Tây Ninh # Tây Ninh # 2012 # T
+9 # Cô C # 1980 # Tây Ninh # Tây Ninh # 2000 # T
+10 # Thầy D # 1984 # Tây Ninh # Tây Ninh # 2018 # X
+11 # Thầy E # 1986 # Tây Ninh # Tây Ninh # 1997 # T
+12 # Thầy F # 1985 # Tây Ninh # Tây Ninh # 1997 # X
